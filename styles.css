@@ -59,8 +59,7 @@ body{
 }
 
 .game-over{
-  background-color: red;
-  opacity: 0.8;
+  background: rgba(255, 0, 0, 0.6);
 }
 
 .pressed{
